@@ -2,12 +2,14 @@ body  {
 	background-color:rgba(6.9,69,6.9,0.2);
 }
 h1  {
-  color:red;
+  color: #ff0000;
   text-align:center;
   text-decoration: underline;
 }
 h2  {
   text-decoration: underline;
+  color: navy;
+  text-align: center;
 }
 h3  {
   text-decoration: underline;
@@ -20,4 +22,13 @@ h5  {
 }
 h6  {
   text-decoration: underline;
+}
+A {
+  text-align: center;
+}
+a {
+  text-align: center;
+}
+p {
+  text-align: center;
 }
